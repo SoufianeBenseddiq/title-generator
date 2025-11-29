@@ -1,0 +1,1 @@
+ai_paragraph_titler_project/ai_paragraph_titler_model/model.safetensors filter=lfs diff=lfs merge=lfs -text
